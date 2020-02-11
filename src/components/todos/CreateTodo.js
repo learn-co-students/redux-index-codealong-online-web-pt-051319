@@ -35,9 +35,9 @@ class CreateTodo extends Component {
               value={this.state.text}
             />
           <input type="submit" />
-       </form>
-     </div>
-   );
+        </form>
+      </div>
+    );
   }
 };
 
